@@ -1,0 +1,43 @@
+====================================
+PROJECT TITLE
+====================================
+LuckyBot! 🌌
+
+------------------------------------
+OVERVIEW
+------------------------------------
+Since yesterday I had my programming bone ready to begin, I want to use this inspiration for the best.
+And learning with AI never hurts!
+
+------------------------------------
+TECHNOLOGIES USED
+------------------------------------
+Just Java for now
+maybe Python in the future
+
+------------------------------------
+FEATURES
+------------------------------------
+1. Just a bot to play some casual Black Jack with!
+2. I will try to code in currency so it's not "stakes-less"
+3. Might seem a bit far, but making it an actual GUI would be nice
+
+------------------------------------
+IMPLEMENTATION DETAILS
+------------------------------------
+Something that I will definitely need is the help from ChatGPT to correctly guide me on how to complete this.
+Especially when I have to be mindful about creating an algorithm for an AI as well.
+
+THE GPT CONVERSATION
+https://chatgpt.com/c/67d70b47-ba50-800d-8cfe-a8d0a94418dd
+
+------------------------------------
+AUTHOR / CONTRIBUTORS
+------------------------------------
+Kamil R (DUMTao)
+Sir. GPT
+
+------------------------------------
+CONTACT
+------------------------------------
+Just ME!!
