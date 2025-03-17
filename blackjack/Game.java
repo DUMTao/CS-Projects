@@ -163,7 +163,7 @@ public class Game{
                 //Recalculate the hand and ask the user for ace value
                 playerTotal = handValue(playerCards);
     
-                //Bad Gambling choice
+                //Bad Gambling luck
                 if (playerTotal > 21){
                     System.out.println("You busted! The House always wins...");
                     return;
@@ -172,7 +172,7 @@ public class Game{
             }
             else if (userChoice.equals("2")){
                 //Turn ends immediately so :p
-                displayHouseHand(true); // Reveal the house's hand after the player stands
+                displayHouseHand(true); //Reveal the house's hand after the player stands
                 return;
             }
             else {
