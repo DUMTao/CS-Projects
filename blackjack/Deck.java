@@ -19,6 +19,7 @@ public class Deck{
                 deck[index++] = new Cards(rank, suit, index);
             }
         }
+    
     }
 
     //This I actually never done before however, I'm sure Dr.Eicholtz will go over it in class
